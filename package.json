@@ -1,6 +1,6 @@
 {
   "name": "unit-synonyms-volume",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Volume units synonyms",
   "main": "src/index.js",
   "scripts": {
