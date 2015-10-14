@@ -4,11 +4,11 @@
 
 require('should');
 
-var mass = require('../src/');
-var units = mass.units;
-var synonyms = mass.synonyms;
+var volume = require('../src/');
+var units = volume.units;
+var synonyms = volume.synonyms;
 
-describe('area units synonyms', function() {
+describe('volume units synonyms', function() {
   it('should be an objecct', function() {
     ({}.toString.call(synonyms)).should.equal('[object Object]');
   });
